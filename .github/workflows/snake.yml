@@ -28,6 +28,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          committer: RonSijm <sijm.ron@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
