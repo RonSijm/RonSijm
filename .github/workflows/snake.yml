@@ -2,7 +2,7 @@ name: Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 0 * * 0" 
   
   workflow_dispatch:
   
@@ -28,5 +28,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          committer: RonSijm <sijm.ron@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
