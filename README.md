@@ -17,7 +17,7 @@ Software Architect && Team Lead++; // Appical
 
 **Crypto**
 
-- [There is a SOL based Buttfish coin, and I'm getting creators fees](https://pump.fun/coin/58Ghft9TvGNuBiDzy9cFD2Px9rz5cDVZ1XoMFk1xpum)
+- [There is a SOL based Buttfish coin, and I'm getting creators fees](https://pump.fun/coin/58Ghft9TvGNuBiDzy9cFD2Px9rz5cDVZ1XoMFk1xpump)
 - CA: 58Ghft9TvGNuBiDzy9cFD2Px9rz5cDVZ1XoMFk1xpump
 - So if you're trading memecoins anyways, this is getting me free SOL :)
 
